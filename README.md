@@ -35,7 +35,7 @@
 <br />
   
 #### <img src="https://img.shields.io/badge/Seoul-000000?style=for-the-badge&logo=42&logoColor=white" height=30px />
-<img src="https://badge42.vercel.app/api/v2/cliqb5tof003508l5l2znx5bc/stats?cursusId=21&coalitionId=87" alt="sumsong's 42 stats" /></a>
+[![sumsong's 42 stats](https://badge.mediaplus.ma/landscapes/sumsong?1337Badge=off&UM6P=off)]()
 <br />
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
@@ -49,22 +49,3 @@
 
 
 </div>
-
-
-<!-- Stats -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumnii&show_icons=true&theme=radical) -->
-
-<!--
-**sumnii/sumnii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
