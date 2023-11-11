@@ -35,7 +35,7 @@
 <br />
   
 #### <img src="https://img.shields.io/badge/Seoul-000000?style=for-the-badge&logo=42&logoColor=white" height=30px />
-[![sumsong's 42 stats](https://badge.mediaplus.ma/landscapes/sumsong?1337Badge=off&UM6P=off)]()
+[![sumsong's 42 stats](https://badge.mediaplus.ma/landscapes/sumsong?1337Badge=off&UM6P=off)](https://www.42network.org/)
 <br />
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
